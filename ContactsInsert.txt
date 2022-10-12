@@ -1,0 +1,10 @@
+insert into Contacts (ID,FirstName,LastName,Email,Phone,UserID) VALUES (1,'Rayhan','Allan','ad@gmail.com','6288134020',1);
+insert into Contacts (ID,FirstName,LastName,Email,Phone,UserID) VALUES (2,'Katrina', 'Mcguire','tamotof320@rxcay.com','2192524804',2);
+insert into Contacts (ID,FirstName,LastName,Email,Phone,UserID) VALUES (3,'Yvonne', 'Johnson','assasas@sign-in.social','5157565781',3);
+insert into Contacts (ID,FirstName,LastName,Email,Phone,UserID) VALUES (4,'Rania', 'Reese','hertsbbb@mc-templates.de','7175223240',4);
+insert into Contacts (ID,FirstName,LastName,Email,Phone,UserID) VALUES (5,'Jacqueline', 'Finley','nikitasuntsov@gungratemail.com','3268823372',1);
+insert into Contacts (ID,FirstName,LastName,Email,Phone,UserID) VALUES (6,'Charlton', 'Guy','rerere0@digimexplus.com','8103714722',2);
+insert into Contacts (ID,FirstName,LastName,Email,Phone,UserID) VALUES (7,'Otto', 'Johns','farinmail@nproxi.com','4423418805',3);
+insert into Contacts (ID,FirstName,LastName,Email,Phone,UserID) VALUES (8,'Julie', 'Paine','grayyxx@random-mail.tk','8402059632',4);
+insert into Contacts (ID,FirstName,LastName,Email,Phone,UserID) VALUES (9,'Rochelle', 'Alford','siavax@wexcc.com','3609840782',1);
+insert into Contacts (ID,FirstName,LastName,Email,Phone,UserID) VALUES (10,'Javier', 'Snow','griffon517@onlyu.link','4355079498',2);

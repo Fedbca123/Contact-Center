@@ -1,0 +1,4 @@
+insert into Users (ID, FirstName,LastName,Login,Password,Email) VALUES (37, 'Rick','Leinecker','RickL','COP4331', 'RickL@gmail.com');
+insert into Users (ID, FirstName,LastName,Login,Password,Email) VALUES (2, 'Sam','Hill','SamH','Test', SamH@email.com);
+insert into Users (ID, FirstName,LastName,Login,Password,Email) VALUES (3, 'Rick','Leinecker2','RickL2','5832a71366768098cceb7095efb774f2', RickL2@gmail.com);
+insert into Users (ID, FirstName,LastName,Login,Password,Email) VALUES (4, 'Sam','Hill2','SamH2','0cbc6611f5540bd0809a388dc95a615b', SamH2@gmail.com);
